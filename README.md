@@ -1,4 +1,4 @@
-# Audio-Content-Analysis
+# Cover Song Identification
 
 Code for performing Cover song identification on the Second Hand Song (SHS) Dataset. 
 
